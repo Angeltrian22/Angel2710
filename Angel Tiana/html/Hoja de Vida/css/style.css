@@ -1,0 +1,23 @@
+*{
+    background: #b3b3ff;
+    font-family: 'Caveat Brush', cursive;
+}
+.img{
+    width: 100px;
+    height: 100px;
+    margin: 25px 1200px;
+}
+.encabezado{
+margin: 20px 10px;
+text-align: justify;
+}
+h1{
+    text-align: center;
+}
+h2{
+    margin: 5px 20px;
+}
+div{
+    margin: 10px 30px;
+    border: #080808 solid 1px;
+}

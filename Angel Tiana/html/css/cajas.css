@@ -1,0 +1,44 @@
+body{
+    border: black solid 1px;
+    padding: 10px;
+    overflow: auto;
+    
+}
+header,main,footer{
+    border:blue solid 1px;
+    padding: 10px;
+}
+.encabezado{
+    width: 32%;
+    display: inline-table;
+    border: green solid 1px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.contenedor1{
+    display: inline-table;
+    width: 30%;
+    border: red solid 1px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.contenedor2{
+    display: inline-table;
+    border: yellow solid 1px;
+    width: 69%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+main{
+    height: 900px;
+}
+footer{
+    height: 200px;
+    background: rgba(0, 0,0.5, 0.4);
+    width: 100%;
+    box-sizing: border-box;
+    position: fixed; 
+    top: 20px;
+   right: 20px;
+
+}
